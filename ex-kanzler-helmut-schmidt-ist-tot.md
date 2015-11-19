@@ -13,8 +13,15 @@ Im Alter von 96 Jahren ist er gestorben.
 > Terrorismus (m., nur Singular) – die Anwendung von Gewalt durch Personen oder Gruppen, 
 um politische Ziele zu erreichen
 
-„Wir Deutschen haben eine Vaterfigur verloren“, sagte Außenminister Frank-Walter Steinmeier über den Tod von Helmut Schmidt. 
-Schmidt war von 1974 bis 1982 Bundeskanzler und wurde auch danach bis ins hohe Alter geschätzt. 
-Immer wieder wurde der Sozialdemokrat zum beliebtesten Politiker der jüngeren deutschen Geschichte gewählt.
+„Wir Deutschen haben eine **Vaterfigur** verloren“, sagte Außenminister Frank-Walter Steinmeier über den Tod von Helmut Schmidt. 
+Schmidt war von 1974 bis 1982 Bundeskanzler und wurde auch danach bis ins hohe Alter **geschätzt**. 
+Immer wieder wurde der **Sozialdemokrat** zum beliebtesten Politiker der jüngeren deutschen Geschichte gewählt.
 
-> “德国人民失去了一位父亲”，外交部长 Frank-Walter Steinmeier 谈及 Helmut Schmidt 的去世说到。 
+> “德国人民失去了一位父亲”，外交部长 Frank-Walter Steinmeier 谈及 Helmut Schmidt 的去世说到。Schmidt 于1974年至1982年担任联邦总理，并随后步入老年。
+这位社会民主党人一再地被选为近来德国历史上最受欢迎的政治家。
+
+> Vaterfigur, -en (f.) – eine Person, die für jemanden wie ein Vater ist
+
+> jemanden schätzen – von jemandem eine sehr gute Meinung haben; jemanden achten
+
+> Sozialdemokrat, -en/ Sozialdemokratin, -nen – Mitglied Partei SPD
