@@ -1,4 +1,4 @@
-# Ex-Kanzler Helmut Schmidt ist tot（德国前总理 Helmut Schmidt 去世）
+# Ex-Kanzler Helmut Schmidt ist tot 德国前总理 Helmut Schmidt 去世
 [原文](http://www.dw.com/de/ex-kanzler-helmut-schmidt-ist-tot/a-18843829)
 
 Helmut Schmidt war von 1974 bis 1982 deutscher Bundeskanzler und galt als **Mann der Tat**. 
