@@ -44,7 +44,7 @@ obwohl er das als Innensenator gar nicht durfte. Es folgte ein schneller **Karri
 
 Als Schmidt 1974 Bundeskanzler wurde, kämpfte die BRD mit den Folgen der Weltwirtschaftskrise. Und auch wenn Schmidt die wirtschaftliche Lage nicht vollständig bessern konnte – im In- und Ausland bekam er bald den **Ruf** eines „**Weltökonomen**“. Schmidt ging die Probleme mit **Tatkraft** und Entschlossenheit an und galt schon bald als **kompromissloser** „**Macher**“. Das zeigte sich später vor allem in seinem Kampf gegen den **RAF**-Terrorismus.
 
-> 当 Schmidt 于1974年担任联邦德国的总理的时候，联邦德国正在和世界经济危机所造成的影响作斗争。即使 Schmidt 没能将经济形势完全变好，他也迅速在国内外获得了“世界经济学家”的美誉。Schmidt 以充沛的精力和坚毅的决心来解决问题使他迅速被人们视为是毫不妥协“实干家”。这一特质主要体现于随后与 RAF 恐怖主义组织的斗争中。
+> 当 Schmidt 于1974年担任联邦德国的总理的时候，联邦德国正在和世界经济危机所造成的影响作斗争。即使 Schmidt 没能将经济形势完全变好，他也迅速在国内外获得了“世界经济学家”的美誉。Schmidt 以充沛的精力和坚毅的决心来解决问题使他迅速被人们视为不妥协的“实干家”。这一特质主要体现于随后与 RAF 恐怖主义组织的斗争中。
 
 > Ruf (m., nur Singular) – hier: die Meinung, die die Leute von jemandem/etwas haben
 
