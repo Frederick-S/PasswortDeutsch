@@ -30,7 +30,7 @@ Bei einer schlimmen **Sturmflut** in Hamburg setzte Schmidt entschlossen die Bun
 obwohl er das als Innensenator gar nicht durfte. Es folgte ein schneller **Karriereaufstieg** in der Bundespolitik: 
 1964 wurde Schmidt **Fraktionsvorsitzender** der SPD, 1969 Verteidigungsminister.
 
-> 当他1962年在其家乡 Hamburg 担任公安局长时就已经展现出其优秀的危机解决能力：在汉堡遭遇的一次严重的洪灾中，Schmidt 果断地出动了联邦国防军，虽然作为公安局长他并不被允许这样做。之后他的政治生涯节节高升，1964年成为了德国社会民主党的主席，1969年当选为国防部长。
+> 当他1962年在其家乡 Hamburg 担任公安局长时就已经展现出其优秀的危机解决能力：在汉堡遭遇的一次严重的洪灾中，Schmidt 果断地出动了联邦国防军，虽然作为公安局长他完全没有权力这样做。之后他的政治生涯节节高升，1964年成为了德国社会民主党的主席，1969年当选为国防部长。
 
 > Innensenator, -en/Innensenatorin, -nen – ein hoher Politiker in der Regierung eines Stadtstaates
 
