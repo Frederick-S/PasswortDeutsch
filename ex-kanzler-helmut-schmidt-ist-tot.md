@@ -62,7 +62,7 @@ Als Schmidt 1974 Bundeskanzler wurde, kämpfte die BRD mit den Folgen der Weltwi
 
 In der Zeit nach seinem Amt war Schmidt **Mitherausgeber** der Zeitung „Die Zeit“ und hielt weltweit Vorträge zu politischen und wirtschaftlichen Fragen. Helmut Schmidt ist am 10.11.2015 im Alter von 96 Jahren in Hamburg gestorben. Politiker im In- und Ausland **würdigten** ihn. Der französische Präsident François Hollande nannte Schmidt einen „großen Europäer“, und der frühere US-Außenminister Henry Kissinger sagte: „Helmut war ein **Vorbild**. Die Welt wird ihn **vermissen**.“
 
-> 在 Schmidt 卸任职务之后，他成为了 "Die Zeit" 报的联合发行人，并在世界范围内举办关于政治和经济问题的演讲。Helmut Schmidt 于2015年11月10日在 Hamburg 去世，享年96岁。国内外的政客也对其进行了评价。法国总统 François Hollande 称 Schmidt 为一位“伟大的欧洲人”，前美国外交部长 Henry Kissinger 则说：“Helmut 是一个榜样。世界会记住他的。”
+> 在 Schmidt 卸任职务之后，他成为了 "Die Zeit" 报的联合发行人，并在世界范围内举办关于政治和经济问题的演讲。Helmut Schmidt 于2015年11月10日在 Hamburg 去世，享年96岁。国内外的政客也对其进行了赞扬。法国总统 François Hollande 称 Schmidt 为一位“伟大的欧洲人”，前美国外交部长 Henry Kissinger 则说：“Helmut 是一个榜样。世界会记住他的。”
 
 > Mitherausgeber, - /Mitherausgeberin, -nen – jemand, der mit anderen verantwortlich für eine Zeitung/eine Zeitschrift o. Ä. ist
 
