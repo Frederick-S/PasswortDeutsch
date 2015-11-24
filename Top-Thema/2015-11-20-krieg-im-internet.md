@@ -1,11 +1,11 @@
-# Krieg im Internet 互联网战争
+# Krieg im Internet 网络战争
 [原文](http://www.dw.com/de/krieg-im-internet/a-18862789)
 
 **Aktivisten** der Gruppe „**Anonymous**“ kämpfen im Internet gegen den **IS**. 
 Sie **blockieren** **Webseiten** und veröffentlichen Namen von **Sympathisanten**. 
 Nach den **Anschlägen** in Paris haben sie der **Terrormiliz** **den Krieg erklärt**.
 
-> "Anonymous" 组织的活跃成员们正在网上与 IS 组织进行斗争。他们封锁了网站以及公布追随者的名字。
+> "Anonymous" 组织的活跃成员们正在网上与 IS 组织进行斗争。他们封锁了网站以及公布 IS 组织追随者的名字。
 在巴黎遭受恐怖袭击后，他们对 IS 恐怖组织宣战。
 
 > Anonymous (nur Singular, aus dem Englischen) – der Name einer Gruppe von Menschen, die politische Absichten im Internet verfolgt
