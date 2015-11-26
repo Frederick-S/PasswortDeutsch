@@ -71,9 +71,15 @@ Jetzt hat er seinen Leuten im Netz erklärt, was man tun soll, um nicht entdeckt
 > etwas verbreiten – dafür sorgen, dass etwas bekannt wird
 
 Ob Anonymous mit seinem Kampf im Netz viel Erfolg haben wird, ist noch nicht klar. 
-Doch mit der Blockade von Twitter-Accounts und Webseiten kann man den Krieg gegen den Islamischen Staat nicht gewinnen. 
+Doch mit der **Blockade** von Twitter-Accounts und Webseiten kann man den Krieg gegen den Islamischen Staat nicht gewinnen. 
 Das wissen auch die Anonymous-Aktivisten. 
-Der Sinn des Internet-Kriegs liegt im Widerstand gegen die IS-Kämpfer: „Sie müssen wissen, dass die Menschen diesen Mist nicht einfach so hinnehmen."
+Der Sinn des Internet-Kriegs liegt im **Widerstand** gegen die IS-Kämpfer: „Sie müssen wissen, dass die Menschen diesen **Mist** nicht einfach so **hinnehmen**."
 
 > "Anonymous" 在网上和 IS 组织的抗争是否能够取得巨大的成功还是一个未知数。然而靠封锁 Twitter 账号和网站是不能打赢和 IS 的斗争的。"Anonymous" 的活跃者们也深知这一点。
 这场网络战争的意义在于对 IS 战士们的反抗：“他们必须知道，人们是不会轻易屈服的。”
+
+> Widerstand (m., nur Singular) – eine Handlung, mit der man sich gegen etwas wehrt
+
+> Mist (m., nur Singular) – hier: dummes Zeug, Unsinn
+
+> etwas hin|nehmen – etwas akzeptieren
