@@ -4,4 +4,5 @@
 * [2015-12-04: Die Welt redet übers Klima](Top-Thema/2015-12-04-die-welt-redet-übers-klima.md)
 
 # Nachrichtenleicht
-* [2015-12-18: Literatur-Nobel-Preis vergeben](Nachrichtenleicht/2015-12-18-literatur-nobel-preis-vergeben.md)
+* [2015-12-18: Literatur Nobel Preis vergeben](Nachrichtenleicht/2015-12-18-literatur-nobel-preis-vergeben.md)
+* [2015-12-18: Klopp nicht mehr in Dortmund](Nachrichtenleicht/2015-12-18-klopp-nicht-mehr-in-dortmund.md)
