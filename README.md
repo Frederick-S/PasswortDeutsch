@@ -8,3 +8,6 @@
 # Nachrichtenleicht
 * [2015-12-18: Literatur Nobel Preis vergeben](Nachrichtenleicht/2015-12-18-literatur-nobel-preis-vergeben.md)
 * [2015-12-18: Klopp nicht mehr in Dortmund](Nachrichtenleicht/2015-12-18-klopp-nicht-mehr-in-dortmund.md)
+
+# Tagesschau
+* [2016-01-07: Kein Support mehr für antike Browser](Tagesschau/Kein-Support-mehr für-antike-Browser.md)
