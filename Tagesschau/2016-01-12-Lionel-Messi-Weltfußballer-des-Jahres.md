@@ -1,4 +1,4 @@
-# Lionel Messi Weltfußballer des Jahres 里奥·梅荣膺金球奖
+# Lionel Messi Weltfußballer des Jahres 里奥·梅西荣膺金球奖
 [原文](https://www.tagesschau.de/eilmeldung/eilmeldung-571.html)
 
 Lionel Messi ist zum fünften Mal zum Weltfußballer des Jahres gekürt worden. Der argentinische Superstar vom FC Barcelona setzte sich bei der FIFA-Gala in Zürich gegen Cristiano Ronaldo und Neymar durch.
