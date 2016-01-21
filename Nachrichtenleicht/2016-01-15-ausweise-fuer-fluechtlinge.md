@@ -19,4 +19,4 @@ Wenn der Ausweis gemacht wird, muss der Flüchtling auch seine Finger-Abdrücke 
 
 Die Bundes-Regierung sagt: Wir müssen beser über die Flüchtlinge in Deutschland Bescheid wissen. Dann können wir auch schneller entscheiden, welche Menschen in Deutschland bleiben dürfen. Die Partei die Linke ist gegen den Ausweis. Sie meint: Die Behörden wollen zu viele Daten speichern. Auch Flüchtlinge haben ein Recht auf Daten-Schutz.
 
-> 政府表示：我们必须更好的掌握在德国的难民的信息。这样我们就可以更快的做出决定，那些人可以留在德国。而左派则反对难民证件。他们认为：政府想要收集太多的信息了。即使是难民也有信息保护的权利。
+> 政府表示：我们必须更好的掌握在德国的难民的信息。这样我们就可以更快的做出决定，哪些人可以留在德国。而左派则反对难民证件。他们认为：政府想要收集太多的信息了。即使是难民也有信息保护的权利。
