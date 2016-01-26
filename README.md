@@ -14,3 +14,4 @@
 # Tagesschau
 * [2016-01-07: Kein Support mehr für antike Browser](Tagesschau/2016-01-07-Kein-Support-mehr für-antike-Browser.md)
 * [2016-01-12: Lionel Messi Weltfußballer des Jahres](Tagesschau/2016-01-12-Lionel-Messi-Weltfußballer-des-Jahres.md)
+* [2016-01-22: China führt Digitalwährung ein](Tagesschau/2016-01-22-China-führt-Digitalwährung-ein.md)
